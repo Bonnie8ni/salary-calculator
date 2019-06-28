@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/salary-calculator/static/js/main.444e96f0.chunk.js",
+    "main.js.map": "/salary-calculator/static/js/main.444e96f0.chunk.js.map",
+    "runtime~main.js": "/salary-calculator/static/js/runtime~main.87cdd804.js",
+    "runtime~main.js.map": "/salary-calculator/static/js/runtime~main.87cdd804.js.map",
+    "static/js/2.e7dbb282.chunk.js": "/salary-calculator/static/js/2.e7dbb282.chunk.js",
+    "static/js/2.e7dbb282.chunk.js.map": "/salary-calculator/static/js/2.e7dbb282.chunk.js.map",
+    "index.html": "/salary-calculator/index.html",
+    "precache-manifest.2ca34c6cb4c083861e0205468532ae04.js": "/salary-calculator/precache-manifest.2ca34c6cb4c083861e0205468532ae04.js",
+    "service-worker.js": "/salary-calculator/service-worker.js"
+  }
+}
